@@ -456,7 +456,6 @@ section.start-animation .column:nth-child(2){
     margin: 2rem 0 1rem 1.96rem;
     transform: translateY(-100px);
     opacity: 0;
-    text-align: center;
 }
 section.start-animation .column h2{
     animation: top 1s ease forwards;
